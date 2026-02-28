@@ -1,4 +1,4 @@
-**🚦 Smart Traffic Analysis Using Clustering Algorithms **
+🚦 Smart Traffic Analysis Using Clustering Algorithms 
 
 -> Project Overview
 
